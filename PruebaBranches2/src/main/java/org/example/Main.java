@@ -10,5 +10,11 @@ public class Main {
         System.out.println("Merge a main");
 
         System.out.println("Aca cree la feature 2 y sus funciones");
+        System.out.println("Creacion Feature-peon");
+        System.out.println("primer commit a feture-peon");
+        System.out.println("feature-peon terminada");
+
+
+
     }
 }
